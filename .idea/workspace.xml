@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e596fd7a-1f06-4238-8a86-4c86bb191ff8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/http/httpHandle.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tool/bitMap.go" afterDir="false" />
-    </list>
+    <list default="true" id="e596fd7a-1f06-4238-8a86-4c86bb191ff8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +48,12 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -83,5 +85,23 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1701" height="303" key="GridCell.Tab.0.bottom" timestamp="1600504125003">
+      <screen x="49" y="23" width="1743" height="1097" />
+    </state>
+    <state width="1701" height="303" key="GridCell.Tab.0.bottom/49.23.1743.1097@49.23.1743.1097" timestamp="1600504125003" />
+    <state width="1701" height="303" key="GridCell.Tab.0.center" timestamp="1600504125000">
+      <screen x="49" y="23" width="1743" height="1097" />
+    </state>
+    <state width="1701" height="303" key="GridCell.Tab.0.center/49.23.1743.1097@49.23.1743.1097" timestamp="1600504125000" />
+    <state width="1701" height="303" key="GridCell.Tab.0.left" timestamp="1600504124999">
+      <screen x="49" y="23" width="1743" height="1097" />
+    </state>
+    <state width="1701" height="303" key="GridCell.Tab.0.left/49.23.1743.1097@49.23.1743.1097" timestamp="1600504124999" />
+    <state width="1701" height="303" key="GridCell.Tab.0.right" timestamp="1600504125000">
+      <screen x="49" y="23" width="1743" height="1097" />
+    </state>
+    <state width="1701" height="303" key="GridCell.Tab.0.right/49.23.1743.1097@49.23.1743.1097" timestamp="1600504125000" />
   </component>
 </project>
